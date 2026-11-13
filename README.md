@@ -4,11 +4,10 @@ The possibilities that artificial intelligence, agents, and machine learning cre
 I am proficient in several programming languages, and I am seeking a collaborative team role to gain hands-on experience in building larger systems and continue to develop my skills. 
 
 ### Education
-Bachelor of Science in Computer Science | GPA: 3.97/4.00 |                                 Expected May 2028 
-Central Connecticut State University                                                       New Britain, CT 
+Bachelor of Science in Computer Science | GPA: 3.97/4.00 | Expected May 2028 | Central Connecticut State University | New Britain, CT  
 
-- Advanced Coursework 
-Data Structures, Computer Architecture, Systems Programming, Computer Forensics,  
+Advanced Coursework 
+- Data Structures, Computer Architecture, Systems Programming, Computer Forensics,  
 Software Testing & Quality Assurance, Assembly 
 
 ### Technical Skills
